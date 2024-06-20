@@ -21,3 +21,7 @@ Disallow: /
 # Multi-purpose, commercial uses; including LLMs
 User-agent: Omgilibot
 Disallow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Disallow: /
